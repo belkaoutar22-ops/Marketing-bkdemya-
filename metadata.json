@@ -1,0 +1,6 @@
+{
+  "name": "BKDEMYA - وكالة تسويق واستراتيجية أعمال",
+  "description": "صفحة هبوط احترافية عالية التحويل لوكالة التسويق BKDEMYA لحجز استشارة مجانية مدتها 30 دقيقة عبر Google Calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
